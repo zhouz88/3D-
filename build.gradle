@@ -25,3 +25,6 @@ allprojects {
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
+
+
+https://blog.csdn.net/n_fly/article/details/105742177
